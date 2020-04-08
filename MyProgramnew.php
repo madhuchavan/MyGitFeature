@@ -7,3 +7,4 @@
  */
 
 echo 'Welcome to GIT';
+echo 'test GIT';
