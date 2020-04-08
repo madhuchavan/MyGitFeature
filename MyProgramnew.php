@@ -6,5 +6,4 @@
  * Time: 12:19 PM
  */
 
-
 echo 'Welcome to GIT';
